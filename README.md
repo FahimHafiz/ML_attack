@@ -32,17 +32,6 @@ This script version allows running the entire process from the command line. It 
 - Trained model files (if applicable)
 
 ## How to Run the Code
-### **Running the Jupyter Notebook**
-1. Open a terminal and navigate to the project folder:
-   ```sh
-   cd ML_Security_Final
-   ```
-2. Launch Jupyter Notebook:
-   ```sh
-   jupyter notebook
-   ```
-3. Open `main_classification.ipynb` and execute the cells.
-
 ### **Running the Python Script**
 1. Ensure all dependencies are installed:
    ```sh
@@ -50,7 +39,7 @@ This script version allows running the entire process from the command line. It 
    ```
 2. Run the script:
    ```sh
-   python ML_security_final_v2.py
+   python main_classification.py
    ```
 
 ## Dependencies
@@ -65,11 +54,11 @@ pip install -r requirements.txt
 ```
 
 ## License
-(*Specify the license if applicable.*)
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 For any issues or contributions, feel free to open an issue or submit a pull request.
 
 ---
-*Note: Update dataset details and specific code explanations before finalizing.*
+
 
