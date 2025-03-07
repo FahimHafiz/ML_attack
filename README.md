@@ -1,16 +1,16 @@
-# ML Security Final Project
+# ML Security Classification
 
 ## Description
 This repository contains the final project for Machine Learning Security. It includes:
-- A Jupyter Notebook (`ML_security_final_v2.ipynb`) with detailed explanations.
-- A Python script (`ML_security_final_v2.py`) for running the code.
+- A Jupyter Notebook (`main_classification.ipynb`) with detailed explanations.
+- A Python script (`main_classification.py`) for running the code.
 - A dataset used for training and testing the model.
 
 ## Dataset
 (*Provide dataset details here, including its source, structure, number of samples, and any preprocessing steps applied.*)
 
 ## Code Overview
-### 1. **ML_security_final_v2.ipynb**
+### 1. **main_classification.ipynb**
 This Jupyter Notebook provides step-by-step explanations of the implementation, including:
 - Data loading and preprocessing.
 - Feature extraction and transformation.
@@ -18,7 +18,7 @@ This Jupyter Notebook provides step-by-step explanations of the implementation, 
 - Security measures applied to protect the ML model.
 - Performance metrics and visualization.
 
-### 2. **ML_security_final_v2.py**
+### 2. **main_classification.py**
 This script version allows running the entire process from the command line. It includes the same functionalities as the notebook but in a script format.
 
 ## Input & Output
@@ -41,7 +41,7 @@ This script version allows running the entire process from the command line. It 
    ```sh
    jupyter notebook
    ```
-3. Open `ML_security_final_v2.ipynb` and execute the cells.
+3. Open `main_classification.ipynb` and execute the cells.
 
 ### **Running the Python Script**
 1. Ensure all dependencies are installed:
