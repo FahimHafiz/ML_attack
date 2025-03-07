@@ -46,7 +46,7 @@ This script version allows running the entire process from the command line. It 
 Make sure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
-- Pandas, NumPy, Matplotlib, Scikit-learn, etc.
+- Pandas, NumPy, Matplotlib, Scikit-learn, Tensorflow, etc.
 
 To install dependencies, run:
 ```sh
