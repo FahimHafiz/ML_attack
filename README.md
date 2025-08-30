@@ -93,7 +93,7 @@ The following models were implemented and compared:
 ## How to Run the Code
 
 ### **Option 1: Run in Jupyter Notebook**
-1. Open `ML_security_final_v2.ipynb` in **Google Colab** or Jupyter.  
+1. Open `main_classification.ipynb` in **Google Colab** or Jupyter.  
 2. Upload your dataset (`ML_data_set_Statistical_Analysis_0V_0V.xlsx`).  
 3. Execute cells step by step to preprocess, train, evaluate, and visualize results.  
 
@@ -130,10 +130,10 @@ Make sure the following libraries are installed:
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
 
 ---
 
-## 📬 Contact
+## Contact
 For questions, issues, or contributions, feel free to open an **Issue** or submit a **Pull Request**.  
