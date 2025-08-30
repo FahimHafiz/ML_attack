@@ -33,7 +33,7 @@ The datasets were generated using the **LTspice circuit simulator**.
 
 ## Code Overview
 
-### **main_classification.ipynb** or **2. main_classification.py**
+### **main_classification.ipynb** or **main_classification.py**
 - Jupyter Notebook with detailed step-by-step implementation:
   - Data exploration & preprocessing
   - Feature transformation (hex → integer)
@@ -104,7 +104,7 @@ The following models were implemented and compared:
    pip install -r requirements.txt
 2. python main_classification.py
 
-## 📦 Dependencies
+## Dependencies
 
 Make sure the following libraries are installed:  
 
